@@ -1,0 +1,19 @@
+{
+  "name": "@reactblog/node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/webenot/reactblog-node.git"
+  },
+  "author": "webenot <webenot@mail.ua>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/webenot/reactblog-node/issues"
+  },
+  "homepage": "https://github.com/webenot/reactblog-node#readme"
+}
